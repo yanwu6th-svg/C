@@ -6,6 +6,7 @@ bool j(int D,vector<int> nums,int k){
     int a=k;
     int h=0;
     bool f=false;
+	int n = nums.size();
     while(a<0){
         int H = nums[h] + D;
         a--;
@@ -48,6 +49,6 @@ while(r<=l){
         r = mid +1;
     }
 }
-
+cout << res;
 
 }
