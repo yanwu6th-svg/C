@@ -3,7 +3,7 @@ using namespace std;
 
 int n,m,r,k,t;
 vector<vector<int>> nums;
-vector<vector<int>> p;$$$
+vector<vector<int>> p;
 vector<vector<int>> ans;
 vector<int> cnt;
 
