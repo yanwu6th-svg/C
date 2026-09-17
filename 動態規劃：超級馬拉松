@@ -1,0 +1,15 @@
+include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+	while(true)
+	{
+		int u;
+		cin >> u;
+		if(u==0)break;
+		
+		vector<int> nums(u);
+		for
+	}
+
